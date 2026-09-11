@@ -1,0 +1,2850 @@
+{
+    "easy": [],
+    "hard": [],
+    "number": [
+        {
+            "bgImageName": "Helo_Kity_Color_1",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z1.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z2.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Helo_Kity_Color_3",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z3.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z4.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Helo_Kity_Color_5",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z5.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z6.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Helo_Kity_Color_7",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z7.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z8.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Helo_Kity_Color_9",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z9.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z10.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Helo_Kity_Color_11",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z11.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z12.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Helo_Kity_Color_13",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z13.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z14.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Helo_Kity_Color_15",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z15.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z16.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Helo_Kity_Color_17",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z17.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z18.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Helo_Kity_Color_19",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z19.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z20.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Helo_Kity_Color_21",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z21.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z22.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Helo_Kity_Color_23",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z23.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z24.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Helo_Kity_Color_25",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z25.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z26.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Helo_Kity_Color_27",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z27.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z28.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Helo_Kity_Color_29",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z29.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z30.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Helo_Kity_Color_31",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z31.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z32.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Helo_Kity_Color_33",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z33.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z34.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Helo_Kity_Color_35",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z35.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z36.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Helo_Kity_Color_37",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z37.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z38.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Helo_Kity_Color_39",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z39.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z40.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Helo_Kity_Color_41",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z41.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z42.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Helo_Kity_Color_43",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z43.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/z44.jpg",
+            "category": "HELO KITY"
+        },
+        {
+            "bgImageName": "Kuromi_Color_1",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m1.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m2.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_3",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m3.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m4.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_5",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m5.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m6.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_7",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m7.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m8.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_9",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m9.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m10.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_11",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m11.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m12.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_13",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m13.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m14.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_15",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m15.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m16.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_17",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m17.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m18.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_19",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m19.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m20.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_21",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m21.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m22.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_23",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m23.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m24.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_25",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m25.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m26.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_27",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m27.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m28.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_29",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m29.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m30.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_31",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m31.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m32.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_33",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m33.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m34.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_35",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m35.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m36.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_37",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m37.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m38.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_39",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m39.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m40.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_41",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m41.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m42.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_43",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m43.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m44.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_45",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m45.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m46.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_47",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m47.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m48.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_49",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m49.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m50.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_51",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m51.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m52.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_53",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m53.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m54.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_55",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m55.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m56.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_57",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m57.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m58.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_59",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m59.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m60.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_61",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m61.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m62.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_63",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m63.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m64.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_65",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m65.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m66.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_67",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m67.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m68.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_69",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m69.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m70.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_71",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m71.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m72.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_73",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m73.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m74.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_75",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m75.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m76.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_77",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m77.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m78.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_79",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m79.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m80.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_81",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m81.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m82.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_83",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m83.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m84.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_85",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m85.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m86.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_87",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m87.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m88.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Kuromi_Color_89",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m89.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/m90.png",
+            "category": "KUROMI"
+        },
+        {
+            "bgImageName": "Bluey_Color_1",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu1.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu1.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_2",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu2.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu2.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_3",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu3.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu3.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_4",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu4.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu4.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_5",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu5.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu5.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_6",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu6.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu6.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_7",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu7.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu7.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_8",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu8.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu8.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_9",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu9.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu9.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_10",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu10.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu10.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_11",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu11.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu11.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_12",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu12.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu12.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_13",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu13.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu13.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_14",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu14.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu14.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_15",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu15.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu15.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_16",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu16.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu16.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_17",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu17.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu17.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_18",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu18.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu18.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_19",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu19.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu19.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_20",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu20.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu20.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_21",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu21.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu21.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_22",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu22.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu22.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_23",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu23.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu23.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_24",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu24.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu24.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_25",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu25.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu25.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_26",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu26.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu26.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_27",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu27.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu27.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_28",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu28.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu28.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_29",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu29.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu29.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_30",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu30.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu30.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_31",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu31.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu31.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_32",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu32.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu32.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_33",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu33.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu33.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_34",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu34.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu34.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_35",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu35.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu35.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_36",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu36.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu36.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_37",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu37.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu37.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_38",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu38.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu38.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_39",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu39.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu39.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_40",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu40.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu40.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_41",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu41.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu41.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_42",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu42.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/bleu42.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_1",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b1.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b2.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_3",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b3.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b4.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_5",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b5.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b6.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_7",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b7.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b8.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_9",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b9.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b10.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_11",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b11.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b12.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_13",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b13.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b14.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_15",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b15.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b16.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_17",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b17.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b18.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_19",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b19.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b20.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_21",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b21.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b22.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_23",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b23.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b24.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_25",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b25.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b26.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_29",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b29.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b30.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_31",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b31.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b32.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_33",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b33.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b34.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_35",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b35.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b36.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_37",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b37.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b38.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_39",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b39.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b40.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_41",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b41.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b42.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_43",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b43.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b44.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_45",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b45.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b46.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_47",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b47.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b48.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_49",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b49.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b50.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_51",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b51.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b52.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_55",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b55.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b56.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_57",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b57.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b58.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_59",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b59.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b60.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_61",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b61.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b62.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_63",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b63.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b64.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_65",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b65.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b66.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_67",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b67.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b68.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_69",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b69.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/b70.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Helluva_Color_1",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h1.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h2.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_3",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h3.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h4.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_5",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h5.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h6.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_7",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h7.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h8.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_9",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h9.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h10.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_11",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h11.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h12.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_13",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h13.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h14.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_15",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h15.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h16.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_17",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h17.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h18.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_19",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h19.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h20.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_21",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h21.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h22.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_23",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h23.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h24.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_25",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h25.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h26.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_27",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h27.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h28.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_29",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h29.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h30.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_31",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h31.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h32.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_33",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h33.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h34.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_35",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h35.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h36.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_37",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h37.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h38.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_39",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h39.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h40.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_41",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h41.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h42.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_43",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h43.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h44.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_45",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h45.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h46.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_47",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h47.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h48.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_49",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h49.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h50.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_51",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h51.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h52.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_53",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h53.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h54.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_55",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h55.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/h56.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Hazbin_Color_1",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin1.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin2.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_3",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin3.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin4.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_5",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin5.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin6.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_7",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin7.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin8.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_9",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin9.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin10.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_11",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin11.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin12.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_13",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin13.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin14.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_15",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin15.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin16.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_17",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin17.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin18.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_19",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin19.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin20.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_21",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin21.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin22.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_23",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin23.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin24.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_25",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin25.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin26.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_27",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin27.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin28.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_29",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin29.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin30.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_31",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin31.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin32.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_33",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin33.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin34.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_35",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin35.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin36.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_37",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin37.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin38.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_39",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin39.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin40.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_41",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin41.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin42.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_43",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin43.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin44.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_45",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin45.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin46.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_47",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin47.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin48.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_49",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin49.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin50.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_51",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin51.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin52.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_53",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin53.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin54.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_55",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin55.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin56.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_57",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin57.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin58.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_59",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin59.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin60.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_61",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin61.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin62.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_63",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin63.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin64.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_65",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin65.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin66.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_67",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin67.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin68.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_69",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin69.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin70.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_71",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin71.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin72.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_73",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin73.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin74.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_75",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin75.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin76.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_77",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin77.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin78.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_79",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin79.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin80.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_81",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin81.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin82.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_83",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin83.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin84.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_85",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin85.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin86.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_87",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin87.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin88.jpg",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_89",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin89.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin90.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_91",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin91.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin92.jpg",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_93",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin93.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin94.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_95",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin95.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin96.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_97",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin97.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin98.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_99",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin99.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin100.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_101",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin101.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin102.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_103",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin103.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin104.jpg",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_105",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin105.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin106.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_107",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin107.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin108.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_109",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin109.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin110.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_111",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin111.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin112.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_113",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin113.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin114.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_115",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin115.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin116.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_117",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin117.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin118.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_119",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin119.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin120.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_121",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin121.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin122.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_123",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin123.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin124.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_125",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin125.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin126.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_127",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin127.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin128.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_129",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin129.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin130.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_131",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin131.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/hazbin132.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_1",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d1.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d2.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_3",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d3.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d4.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_5",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d5.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d6.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_7",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d7.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d8.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_9",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d9.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d10.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_11",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d11.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d12.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_13",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d13.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d14.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_15",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d15.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d16.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_17",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d17.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d18.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_19",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d19.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d20.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_21",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d21.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d22.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_23",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d23.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d24.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_25",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d25.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d26.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_27",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d27.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d28.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_29",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d29.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d30.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_31",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d31.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d32.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_33",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d33.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d34.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_35",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d35.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d36.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_37",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d37.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d38.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_39",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d39.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d40.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_41",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d41.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d42.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_43",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d43.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d44.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_45",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d45.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d46.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_47",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d47.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d48.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_49",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d49.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d50.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_51",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d51.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d52.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_53",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d53.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d54.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_55",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d55.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d56.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_57",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d57.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d58.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_59",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d59.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d60.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_61",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d61.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d62.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_63",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d63.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d64.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_65",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d65.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d66.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_67",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d67.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d68.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_69",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d69.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d70.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_71",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d71.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d72.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_73",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d73.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d74.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_75",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d75.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d76.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_77",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d77.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d78.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_79",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d79.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d80.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_81",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d81.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d82.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_83",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d83.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d84.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_85",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d85.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d86.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_87",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d87.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d88.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_89",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d89.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d90.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_91",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d91.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d92.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_93",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d93.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d94.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Digital_Circus_Color_95",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d95.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/d96.png",
+            "category": "DIGITAL CIRCUS"
+        },
+        {
+            "bgImageName": "Fnaf_Color_1",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f1.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f2.png",
+            "category": "FNAF"
+        },
+        {
+            "bgImageName": "Fnaf_Color_3",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f3.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f4.png",
+            "category": "FNAF"
+        },
+        {
+            "bgImageName": "Fnaf_Color_5",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f5.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f6.png",
+            "category": "FNAF"
+        },
+        {
+            "bgImageName": "Fnaf_Color_7",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f7.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f8.png",
+            "category": "FNAF"
+        },
+        {
+            "bgImageName": "Fnaf_Color_9",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f9.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f10.png",
+            "category": "FNAF"
+        },
+        {
+            "bgImageName": "Fnaf_Color_11",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f11.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f12.png",
+            "category": "FNAF"
+        },
+        {
+            "bgImageName": "Fnaf_Color_13",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f13.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f14.png",
+            "category": "FNAF"
+        },
+        {
+            "bgImageName": "Fnaf_Color_15",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f15.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f16.png",
+            "category": "FNAF"
+        },
+        {
+            "bgImageName": "Fnaf_Color_17",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f17.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f18.png",
+            "category": "FNAF"
+        },
+        {
+            "bgImageName": "Fnaf_Color_19",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f19.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f20.png",
+            "category": "FNAF"
+        },
+        {
+            "bgImageName": "Fnaf_Color_21",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f21.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f22.png",
+            "category": "FNAF"
+        },
+        {
+            "bgImageName": "Fnaf_Color_23",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f23.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f24.png",
+            "category": "FNAF"
+        },
+        {
+            "bgImageName": "Fnaf_Color_25",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f25.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f26.png",
+            "category": "FNAF"
+        },
+        {
+            "bgImageName": "Fnaf_Color_27",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f27.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/f28.png",
+            "category": "FNAF"
+        },
+        {
+            "bgImageName": "Kpop_Color_1",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k1.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k2.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_3",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k3.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k4.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_5",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k5.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k6.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_7",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k7.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k8.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_9",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k9.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k10.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_11",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k11.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k12.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_13",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k13.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k14.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_15",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k15.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k16.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_17",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k17.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k18.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_19",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k19.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k20.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_21",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k21.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k22.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_23",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k23.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k24.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_25",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k25.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k26.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_27",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k27.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k28.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_29",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k29.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k30.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_31",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k31.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k32.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_33",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k33.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k34.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_35",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k35.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k36.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_37",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k37.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k38.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_39",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k39.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k40.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_41",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k41.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k42.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_43",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k43.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k44.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_45",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k45.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k46.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_47",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k47.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k48.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_49",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k49.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k50.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_51",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k51.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k52.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_53",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k53.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k54.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_55",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k55.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k56.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_57",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k57.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k58.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_59",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k59.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k60.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_61",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k61.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k62.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_63",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k63.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k64.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_65",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k65.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k66.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Kpop_Color_67",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k67.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/k68.png",
+            "category": "KPOP"
+        },
+        {
+            "bgImageName": "Poppy_Color_1",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p1.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p2.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_3",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p3.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p4.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_5",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p5.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p6.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_7",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p7.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p8.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_9",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p9.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p10.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_11",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p11.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p12.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_13",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p13.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p14.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_15",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p15.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p16.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_17",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p17.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p18.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_19",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p19.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p20.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_21",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p21.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p22.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_23",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p23.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p24.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_25",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p25.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p26.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_27",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p27.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p28.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_29",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p29.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p30.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_31",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p31.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p32.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_33",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p33.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p34.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_35",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p35.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p36.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_37",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p37.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p38.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_39",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p39.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p40.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_41",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p41.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p42.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_43",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p43.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p44.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_45",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p45.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p46.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_47",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p47.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p48.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_49",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p49.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p50.jpg",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_51",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p51.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p52.png",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Poppy_Color_53",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p53.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/p54.png",
+            "category": "POPPY"
+        },
+        {
+            "bgImageName": "Rainbow_Friends_Color_1",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r1.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r2.png",
+            "category": "RAINBOW FRIENDS"
+        },
+        {
+            "bgImageName": "Rainbow_Friends_Color_3",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r3.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r4.png",
+            "category": "RAINBOW FRIENDS"
+        },
+        {
+            "bgImageName": "Rainbow_Friends_Color_5",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r5.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r6.png",
+            "category": "RAINBOW FRIENDS"
+        },
+        {
+            "bgImageName": "Rainbow_Friends_Color_7",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r7.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r8.png",
+            "category": "RAINBOW FRIENDS"
+        },
+        {
+            "bgImageName": "Rainbow_Friends_Color_9",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r9.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r10.png",
+            "category": "RAINBOW FRIENDS"
+        },
+        {
+            "bgImageName": "Rainbow_Friends_Color_11",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r11.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r12.png",
+            "category": "RAINBOW FRIENDS"
+        },
+        {
+            "bgImageName": "Rainbow_Friends_Color_13",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r13.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r14.png",
+            "category": "RAINBOW FRIENDS"
+        },
+        {
+            "bgImageName": "Rainbow_Friends_Color_15",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r15.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r16.png",
+            "category": "RAINBOW FRIENDS"
+        },
+        {
+            "bgImageName": "Rainbow_Friends_Color_17",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r17.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r18.png",
+            "category": "RAINBOW FRIENDS"
+        },
+        {
+            "bgImageName": "Rainbow_Friends_Color_19",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r19.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r20.png",
+            "category": "RAINBOW FRIENDS"
+        },
+        {
+            "bgImageName": "Rainbow_Friends_Color_21",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r21.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r22.png",
+            "category": "RAINBOW FRIENDS"
+        },
+        {
+            "bgImageName": "Rainbow_Friends_Color_23",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r23.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r24.png",
+            "category": "RAINBOW FRIENDS"
+        },
+        {
+            "bgImageName": "Rainbow_Friends_Color_25",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r25.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r26.png",
+            "category": "RAINBOW FRIENDS"
+        },
+        {
+            "bgImageName": "Rainbow_Friends_Color_27",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r27.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r28.png",
+            "category": "RAINBOW FRIENDS"
+        },
+        {
+            "bgImageName": "Rainbow_Friends_Color_29",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r29.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/r30.png",
+            "category": "RAINBOW FRIENDS"
+        },
+        {
+            "bgImageName": "Sonic_Color_1",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s1.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s2.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_3",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s3.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s4.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_5",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s5.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s6.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_7",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s7.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s8.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_9",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s9.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s10.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_11",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s11.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s12.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_13",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s13.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s14.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_15",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s15.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s16.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_17",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s17.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s18.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_19",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s19.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s20.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_21",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s21.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s22.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_23",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s23.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/s24.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Ben_10_Color_1",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n1.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n2.png",
+            "category": "BEN10"
+        },
+        {
+            "bgImageName": "Ben_10_Color_3",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n3.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n4.png",
+            "category": "BEN10"
+        },
+        {
+            "bgImageName": "Ben_10_Color_5",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n5.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n6.png",
+            "category": "BEN10"
+        },
+        {
+            "bgImageName": "Ben_10_Color_7",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n7.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n8.png",
+            "category": "BEN10"
+        },
+        {
+            "bgImageName": "Ben_10_Color_9",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n9.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n10.png",
+            "category": "BEN10"
+        },
+        {
+            "bgImageName": "Ben_10_Color_11",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n11.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n12.png",
+            "category": "BEN10"
+        },
+        {
+            "bgImageName": "Ben_10_Color_13",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n13.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n14.png",
+            "category": "BEN10"
+        },
+        {
+            "bgImageName": "Ben_10_Color_15",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n15.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n16.png",
+            "category": "BEN10"
+        },
+        {
+            "bgImageName": "Ben_10_Color_17",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n17.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n18.png",
+            "category": "BEN10"
+        },
+        {
+            "bgImageName": "Ben_10_Color_19",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n19.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n20.png",
+            "category": "BEN10"
+        },
+        {
+            "bgImageName": "Ben_10_Color_21",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n21.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n22.png",
+            "category": "BEN10"
+        },
+        {
+            "bgImageName": "Ben_10_Color_23",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n23.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n24.png",
+            "category": "BEN10"
+        },
+        {
+            "bgImageName": "Ben_10_Color_25",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n25.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n26.png",
+            "category": "BEN10"
+        },
+        {
+            "bgImageName": "Ben_10_Color_27",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n27.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n28.png",
+            "category": "BEN10"
+        },
+        {
+            "bgImageName": "Ben_10_Color_29",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n29.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n30.png",
+            "category": "BEN10"
+        },
+        {
+            "bgImageName": "Ben_10_Color_31",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n31.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/n32.png",
+            "category": "BEN10"
+        },
+        {
+            "bgImageName": "Banban_Color_1",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g1.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g2.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_3",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g3.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g4.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_5",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g5.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g6.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_7",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g7.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g8.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_9",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g9.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g10.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_11",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g11.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g12.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_13",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g13.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g14.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_15",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g15.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g16.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_17",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g17.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g18.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_19",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g19.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g20.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_21",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g21.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g22.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_23",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g23.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g24.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_25",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g25.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g26.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_27",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g27.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g28.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_29",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g29.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g30.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_31",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g31.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g32.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_33",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g33.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g34.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_35",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g35.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g36.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_37",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g37.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g38.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_39",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g39.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g40.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_41",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g41.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g42.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_43",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g43.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g44.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Banban_Color_45",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g45.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/g46.png",
+            "category": "BANBAN"
+        },
+        {
+            "bgImageName": "Ladybug_Color_1",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l1.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l2.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_3",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l3.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l4.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_5",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l5.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l6.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_7",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l7.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l8.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_9",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l9.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l10.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_11",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l11.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l12.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_13",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l13.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l14.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_15",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l15.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l16.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_17",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l17.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l18.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_19",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l19.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l20.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_21",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l21.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l22.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_23",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l23.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l24.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_25",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l25.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l26.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_27",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l27.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l28.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_29",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l29.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l30.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_31",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l31.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l32.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_33",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l33.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l34.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_35",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l35.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l36.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_37",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l37.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l38.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_39",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l39.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l40.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_41",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l41.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l42.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_43",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l43.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l44.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_45",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l45.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l46.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_47",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l47.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l48.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_49",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l49.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l50.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_51",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l51.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l52.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_53",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l53.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l54.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_55",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l55.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l56.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_57",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l57.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l58.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_59",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l59.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l60.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_61",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l61.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l62.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_63",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l63.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l64.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_65",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l65.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l66.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_67",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l67.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l68.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_69",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l69.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l70.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_71",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l71.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l72.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_73",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l73.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l74.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_75",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l75.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l76.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_77",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l77.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l78.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_79",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l79.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l80.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_81",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l81.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l82.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_83",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l83.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l84.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_85",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l85.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l86.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_87",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l87.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l88.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_91",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l91.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l92.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_97",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l97.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l98.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_99",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l99.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l100.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_101",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l101.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l102.png",
+            "category": "LADYBUG"
+        },
+        {
+            "bgImageName": "Ladybug_Color_103",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l103.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/hellokitycolor__wallapapper_keyboard_dev/refs/heads/l104.png",
+            "category": "LADYBUG"
+        }
+    ]
+}
